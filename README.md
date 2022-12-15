@@ -28,7 +28,7 @@
 
 </br>
 
-# Streak
+# Streak (Not using GitHub often)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k3noxofficial&" alt="k3noxofficial" /></p>
 
 </br>
