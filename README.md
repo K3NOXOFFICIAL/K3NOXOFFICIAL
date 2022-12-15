@@ -25,3 +25,5 @@
 
 # Stats
 <a href="https://wakatime.com/badge/user/3a422f33-7891-495d-84c6-b8259dffd9c0/project/ed06bbcc-581c-48fd-9bcf-0adc84f058d1"><img src="https://wakatime.com/badge/user/3a422f33-7891-495d-84c6-b8259dffd9c0/project/ed06bbcc-581c-48fd-9bcf-0adc84f058d1.svg" alt="wakatime"></a>
+
+<figure><embed src="https://wakatime.com/share/@3a422f33-7891-495d-84c6-b8259dffd9c0/f9de7578-b81a-4520-9b08-537955d79c67.svg"></embed></figure>
