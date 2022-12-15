@@ -22,3 +22,6 @@
 
 # Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k3noxofficial&" alt="k3noxofficial" /></p>
+
+# Stats
+[![wakatime](https://wakatime.com/badge/user/3a422f33-7891-495d-84c6-b8259dffd9c0/project/ed06bbcc-581c-48fd-9bcf-0adc84f058d1.svg)](https://wakatime.com/badge/user/3a422f33-7891-495d-84c6-b8259dffd9c0/project/ed06bbcc-581c-48fd-9bcf-0adc84f058d1)
