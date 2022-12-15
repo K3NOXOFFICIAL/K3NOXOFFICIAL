@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Keno</h1>
 <h3 align="center">An Artifficial Intelligence developer from Germany!</h3>
 
-- 🔭 I’m currently working on **The Maid-AI**
+- 🔭 I’m currently working on **K3NOX Anime** and **The Maid-AI**
 
 - 👯 I’m currently collaborating on **[Ashanime](https://github.com/Ashanime/Ashanime-Web-App))**
 
