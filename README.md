@@ -41,4 +41,4 @@
 
 </br>
 
-<a href="https://wakatime.com/badge/user/3a422f33-7891-495d-84c6-b8259dffd9c0/project/ed06bbcc-581c-48fd-9bcf-0adc84f058d1"><img src="https://wakatime.com/badge/user/3a422f33-7891-495d-84c6-b8259dffd9c0/project/ed06bbcc-581c-48fd-9bcf-0adc84f058d1.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@3a422f33-7891-495d-84c6-b8259dffd9c0"><img src="https://wakatime.com/badge/user/3a422f33-7891-495d-84c6-b8259dffd9c0.svg" alt="Total time coded since Dec 15 2022" /></a>
