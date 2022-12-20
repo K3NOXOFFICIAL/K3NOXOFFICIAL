@@ -28,19 +28,25 @@
 
 </br>
 
-# Streak (Not using GitHub often)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k3noxofficial&" alt="k3noxofficial" /></p>
+# Stats (Not using GitHub often)
 
-</br>
 
-# Stats
 
--  Project code lines : **12.387.953**
+### Total Lines of Code
 
--  Total code lines : **15.231.210**
+-  Project code lines : **12.543.264**
+
+-  Total code lines : **16.153.342**
 
 </br>
 
 ### Total time coded since Dec 19 2022
 
 <a href="https://wakatime.com/@3a422f33-7891-495d-84c6-b8259dffd9c0"><img src="https://wakatime.com/badge/user/3a422f33-7891-495d-84c6-b8259dffd9c0.svg" alt="Total time coded since Dec 19 2022" /></a>
+
+
+
+### Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k3noxofficial&" alt="k3noxofficial" /></p>
+
+
