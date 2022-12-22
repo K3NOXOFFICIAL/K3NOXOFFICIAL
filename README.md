@@ -44,6 +44,13 @@
 
 <a href="https://wakatime.com/@3a422f33-7891-495d-84c6-b8259dffd9c0"><img src="https://wakatime.com/badge/user/3a422f33-7891-495d-84c6-b8259dffd9c0.svg" alt="Total time coded since Dec 19 2022" /></a>
 
+</br>
+
+### Coding Languages Used
+
+<a href="https://wakatime.com"><img width="500" src="https://wakatime.com/share/@K3NOX/516aea30-b858-4982-b88f-11e7751cfda6.png" /></a>
+
+</br>
 
 
 ### Streak
