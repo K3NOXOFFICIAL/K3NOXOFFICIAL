@@ -50,6 +50,9 @@
 
 <a href="https://wakatime.com"><img width="500" src="https://wakatime.com/share/@K3NOX/516aea30-b858-4982-b88f-11e7751cfda6.png" /></a>
 
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni&theme=tokyonight&show_icons=true)
+
+
 </br>
 
 
