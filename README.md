@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **K3NOX Anime** and **The Maid-AI**
 
-- 👯 I’m currently collaborating on **[Ashanime](https://github.com/Ashanime/Ashanime-Web-App))**
+- 👯 I’m currently collaborating on **[Ashanime](https://github.com/Ashanime/Ashanime-Web-App)**
 
 - Currently Working at **Google**
 
