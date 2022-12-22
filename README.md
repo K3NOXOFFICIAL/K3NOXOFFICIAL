@@ -50,7 +50,7 @@
 
 <a href="https://wakatime.com"><img width="500" src="https://wakatime.com/share/@K3NOX/516aea30-b858-4982-b88f-11e7751cfda6.png" /></a>
 
-![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni&theme=tokyonight&show_icons=true)
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=k3noxofficial&theme=tokyonight&show_icons=true)
 
 
 </br>
@@ -60,3 +60,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=k3noxofficial&theme=github-dark-blue&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
+
+
+
+
+
+![Metrics](https://metrics.lecoq.io/k3noxofficial?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FBerlin)
