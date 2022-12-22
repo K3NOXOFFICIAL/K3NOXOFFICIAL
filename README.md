@@ -47,6 +47,6 @@
 
 
 ### Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k3noxofficial&" alt="k3noxofficial" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=k3noxofficial&theme=github-dark-blue&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
