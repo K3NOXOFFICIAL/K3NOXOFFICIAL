@@ -29,7 +29,7 @@
 
 
 
-# Stats (I'll let them speak for themselves)
+# Stats
 
 
 
