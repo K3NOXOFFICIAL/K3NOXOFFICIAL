@@ -28,7 +28,7 @@
 
 </br>
 
-# Stats (Not using GitHub often)
+# Stats (I'll let them speak for themselves)
 
 
 
@@ -55,9 +55,6 @@
 
 ### Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=k3noxofficial&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
-
-
 
 
 
