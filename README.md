@@ -31,7 +31,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=k3noxofficial&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=k3noxofficial&theme=github-dark-blue&hide_border=true&border_radius=10)](https://github.com/K3NOXOFFICIAL/)
 
 
 
