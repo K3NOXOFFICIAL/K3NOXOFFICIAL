@@ -54,8 +54,7 @@
 
 
 ### Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=k3noxofficial&theme=github-dark-blue&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=k3noxofficial&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 
 
