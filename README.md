@@ -27,19 +27,10 @@
 
 
 
-### Total Lines of Code
-
--  **Work** lines of code: **12.543.416**
-
--  **Total** lines of code: **16.153.541**
 
 
 
 
-</br>
-
-
-### Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=k3noxofficial&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 
