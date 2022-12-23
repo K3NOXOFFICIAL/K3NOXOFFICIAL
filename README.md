@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Keno   (Aka. ₭3₦ØӾ)</h1>
-<h3 align="center">An Artifficial Intelligence developer from Germany!</h3>
+<h3 align="center">An AI / KI developer from Germany!</h3>
 
 </br>
 
