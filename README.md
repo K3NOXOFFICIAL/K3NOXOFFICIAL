@@ -4,27 +4,21 @@
 </br>
 
 
-- 🔭 I’m currently working on **K3NOX Anime** and **The Maid-AI**
+- 🔭 I’m currently working on **K3NOX Anime** and **The Maid-AI.**
 
-- 👯 I’m currently collaborating on **[Ashanime](https://github.com/Ashanime/Ashanime-Web-App)**
+- 👯 I’m currently collaborating on **[Ashanime.](https://github.com/Ashanime/Ashanime-Web-App)**
 
-- Currently Working at **Google**
+- Currently Working at **[Google](https://github.com/google)** and starting **my own Company.**
 
 - 💬 Ask me about **Tech and AI**
 
-- 📫 How to reach me **kenoschreibt@gmail.com or on Discord [₭3₦ØӾ#3589](https://discordapp.com/users/₭3₦ØӾ#3589)**
+- 📫 How to reach me: **[Discord](https://discordapp.com/users/₭3₦ØӾ#3589) / [Instagram](https://instagram.com/k3noxofficial) / [Mail](mailto:kenoschreibt@gmail.com)**
 
 - ⚡ Fun fact **I'm a Weeb**
 
 </br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/k3noxofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k3noxofficial" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/₭3₦ØӾ#3589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="₭3₦ØӾ#3589" height="30" width="40" /></a>
-</p>
 
-</br>
 
 
 
