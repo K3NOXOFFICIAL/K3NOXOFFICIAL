@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **[Discord](https://discordapp.com/users/₭3₦ØӾ#3589) / [Instagram](https://instagram.com/k3noxofficial) / [Mail](mailto:kenoschreibt@gmail.com)**
 
-- ⚡ Fun fact **I'm a Weeb**
+- ⚡ Fun fact **I'm a [Weeb](https://www.urbandictionary.com/define.php?term=Weeb)**
 
 </br>
 
