@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Keno   (Aka. ₭3₦ØӾ)</h1>
-<h3 align="center">An AI / KI developer from Germany!</h3>
 
-</br>
 
+- 🔥 I'm an AI / KI developer from Germany!
 
 - 🔭 I’m currently working on **K3NOX Anime** and **The Maid-AI.**
 
 - 👯 I’m currently collaborating on **[Ashanime.](https://github.com/Ashanime/Ashanime-Web-App)**
 
-- Currently Working at **[Google](https://github.com/google)** and starting **my own Company.**
+- 🧑‍💼 Currently Working at **[Google](https://github.com/google)** and starting **my own Company.**
 
 - 💬 Ask me about **Tech and AI**
 
