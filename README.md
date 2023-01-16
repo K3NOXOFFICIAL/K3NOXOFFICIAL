@@ -7,7 +7,7 @@
 
 - 👯 I’m currently collaborating on **[Ashanime.](https://github.com/Ashanime/Ashanime-Web-App)**
 
-- 🧑‍💼 Currently Working at **[Google](https://github.com/google)** and starting **my own Company.**
+- 🧑‍💼 Currently starting **my own Company.**
 
 - 💬 Ask me about **Tech and AI**
 
