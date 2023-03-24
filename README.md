@@ -1,26 +1,22 @@
 <h1 align="center">Hi, I'm Keno   (Aka. ₭3₦ØӾ)</h1>
 
 
-- 🔥 I'm an AI / KI developer from Germany!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F771&width=435&lines=+I'm+an+AI+%2F+KI+developer+from+Germany!;+I%E2%80%99m+currently+working+on+K3NOX+Anime+and+The+Maid-AI.;Ask+me+about+Tech+and+AI;+Fun+fact+I'm+a+Weeb;I%E2%80%99m+currently+collaborating+on+Ashanime.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **K3NOX Anime** and **The Maid-AI.**
+
+
 
 - 👯 I’m currently collaborating on **[Ashanime.](https://github.com/Ashanime/Ashanime-Web-App)**
 
 - 🧑‍💼 Currently starting **my own Company.**
 
-- 💬 Ask me about **Tech and AI**
-
-- 📫 How to reach me: **[Discord](https://discordapp.com/users/₭3₦ØӾ#3589) / [Instagram](https://instagram.com/k3noxofficial) / [Mail](mailto:kenoschreibt@gmail.com)**
-
-- ⚡ Fun fact **I'm a [Weeb](https://www.urbandictionary.com/define.php?term=Weeb)**
+- 📫 How to reach me: **[Discord](https://discordapp.com/users/₭3₦ØӾ#3589) / [Mail](mailto:kenoschreibt@gmail.com)**
 
 </br>
 
-
-
-
-
+# Spotify
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/kenoschreibt?si=ee9dbdd7c8d34100)
+</br>
 
 # Stats
 
