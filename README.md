@@ -18,7 +18,7 @@
 
 </br>
 
-[![Spotify](https://spotify-github-six.vercel.app/)](https://open.spotify.com/user/kenoschreibt)
+
 
 # Stats
 
