@@ -14,14 +14,37 @@
 
 </br>
 
-# Spotify
-[![Spotify](https://spotify-github-six.vercel.app)(https://open.spotify.com/user/kenoschreibt?si=ee9dbdd7c8d34100)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k3noxofficial&label=Profile%20views&color=0e75b6&style=flat" alt="k3noxofficial" /> </p>
+
 </br>
+
+
 
 # Stats
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=k3noxofficial&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
+</p>
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k3noxofficial" alt="k3noxofficial" width="600" /></a> </p>
+
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=k3noxofficial&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="600"></a>
+
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=k3noxofficial&show_icons=true&locale=en&theme=transparent" alt="k3noxofficial" width="600" /></p>
+
+
+
+
+
 
 
 
