@@ -14,7 +14,7 @@
 
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k3noxofficial&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4" alt="k3noxofficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k3noxofficial&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4&label=PROFILE+Visitors" alt="k3noxofficial" /> </p>
 
 </br>
 
