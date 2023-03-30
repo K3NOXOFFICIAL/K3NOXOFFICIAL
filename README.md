@@ -15,7 +15,7 @@
 </br>
 
 # Spotify
-[![Spotify][https://spotify-github-six.vercel.app](https://open.spotify.com/user/kenoschreibt?si=ee9dbdd7c8d34100)
+[![Spotify](https://spotify-github-six.vercel.app)(https://open.spotify.com/user/kenoschreibt?si=ee9dbdd7c8d34100)
 </br>
 
 # Stats
