@@ -6,9 +6,8 @@
 
 
 
-- 👯 I’m currently collaborating on **[Ashanime.](https://github.com/Ashanime/Ashanime-Web-App)**
+- 👯 I’m currently collaborating on **[Ashanime](https://github.com/Ashanime/Ashanime-Web-App)** and [Stable Diffusion.](https://github.com/Stability-AI/stablediffusion)
 
-- 🧑‍💼 Currently starting **my own Company.**
 
 - 📫 How to reach me: **[Discord](https://discordapp.com/users/₭3₦ØӾ#3589) / [Mail](mailto:kenoschreibt@gmail.com)**
 
