@@ -14,11 +14,11 @@
 
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k3noxofficial&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4&label=PROFILE+Visitors" alt="k3noxofficial" /> </p>
+
 
 </br>
 
-
+[![Spotify](https://novatorem-theta-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/kenoschreibt)
 
 # Stats
 
@@ -27,7 +27,7 @@
 
 
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k3noxofficial&label=Profile%20views&color=0e75b6&style=for-the-badge&color=ff69b4&label=PROFILE+Visitors" alt="k3noxofficial" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k3noxofficial" alt="k3noxofficial" width="600" /></a> </p>
