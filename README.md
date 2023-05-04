@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Keno   (Aka. ₭3₦ØӾ)</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F771&width=435&lines=+I'm+an+AI+%2F+KI+developer+from+Germany!;+I%E2%80%99m+currently+working+on+K3NOX+Anime+and+The+Maid-AI.;Ask+me+about+Tech+and+AI;+Fun+fact:+I'm+a+Weeb;I%E2%80%99m+currently+collab+on+Ashanime.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F771&width=435&lines=+I'm+an+AI%2FKI+developer+from+Germany!;+I%E2%80%99m+currently+working+on+K3NOX+Anime+and+The+Maid-AI.;Ask+me+about+Tech+and+AI;+Fun+fact:+I'm+a+Weeb;I%E2%80%99m+currently+working+on+Ashanime)](https://git.io/typing-svg)
 
 
 
